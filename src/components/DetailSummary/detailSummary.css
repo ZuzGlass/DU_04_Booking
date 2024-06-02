@@ -1,0 +1,14 @@
+.summary__detail {
+    margin-bottom: 20px;
+  }
+
+.summary__number, .summary__dates, .summary__guests, .summary__services, .summary__room-total, .summary__check-in, .summary__check-out {
+    margin: 5px 0;
+  }
+
+.summary__detail h3 {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+  }

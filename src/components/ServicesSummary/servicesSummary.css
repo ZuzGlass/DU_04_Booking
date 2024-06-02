@@ -1,0 +1,14 @@
+.summary__services {
+    margin-bottom: 20px;
+  }
+
+.summary__service {
+    margin: 5px 0;
+  }
+
+.summary__services h3 {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+  }

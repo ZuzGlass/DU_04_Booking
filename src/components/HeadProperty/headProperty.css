@@ -1,0 +1,15 @@
+.summary__head-property {
+    flex: 1;
+    min-width: 200px;
+    box-sizing: border-box;
+  }
+
+.summary__name {
+    margin: 0;
+    font-size: 1.2em;
+    word-wrap: break-word;
+  }
+
+.summary__adress, .summary__city, .summary__rating {
+    margin: 5px 0;
+  }  
